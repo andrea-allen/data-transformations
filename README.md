@@ -25,3 +25,5 @@ to run the spark job locally.
 Confirm that you see "Hello Spark" in the output.
 
 If all the test passed locally and "Hello Spark" was in the output than your environment is set up and ready for a TW Data Engineering coding interview.
+
+~~*~~*~~*Andy Allen's fork~~*~~*~~*~~*
